@@ -14,7 +14,7 @@ Emily Koo is my partner and she will be forking my project.
 ----------------------------------------------------------
 # Lisa Lee's SVG Remixed: Space
 
-**Changes made:
+**Changes made:**
 1. Organized HTML code for easy DOM branching and reading
 2. Id's and classes renamed to give semantic meaning
 3. Circles resized and realignedto make sun, mercury, and venus.
